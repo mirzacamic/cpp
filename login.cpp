@@ -1,7 +1,6 @@
 #include <iostream>
 #include <string.h>
 #include <fstream>
-#include <unistd.h>
 
 int begin();
 int reg();
